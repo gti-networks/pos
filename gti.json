@@ -40,5 +40,11 @@
     "name" : "Povão Barra Mansa",
     "latitude" : -22.544511822061008,
     "longitude" : -44.17326258404377
+  },
+  {
+    "key" : "fbr",
+    "name" : "Fabrica de Arames pbi",
+    "latitude" : -22.63038872410645,
+    "longitude" : -43.70931824710328
   }
 ] 
