@@ -28,7 +28,11 @@
     "name" : "povão Barra do Piraí",
     "latitude" : -22.466344499198296,
     "longitude" : -43.826320862506954
+  },
+  {
+    "key" : "ctd",
+    "name" : "Cartão de Todos",
+    "latitude" : -22.917345883240845,
+    "longitude" : -43.68138323175651
   }
-]
-
-  
+] 
