@@ -13,15 +13,22 @@
   },
   {
     "key" : "cli",
-    "name" : "Clínica-amor&saúde",
+    "name" : "Clínica Amor&Saúde",
     "latitude" : -22.912929860679778,
     "longitude" : -43.68699732744344
   },
   {
     "key" : "pvt",
-    "name" : "povão-Volta-redonda",
+    "name" : "povão Volta redonda",
     "latitude" : -22.512756948409532,
     "longitude" : -44.093146975941046
+  },
+  {
+    "key" : "pvbarra",
+    "name" : "povão Barra do Piraí",
+    "latitude" : -22.466344499198296,
+    "longitude" : -43.826320862506954
   }
 ]
+
    
