@@ -34,5 +34,11 @@
     "name" : "Cartão de Todos",
     "latitude" : -22.917345883240845,
     "longitude" : -43.68138323175651
+  },
+  {
+    "key" : "pbm",
+    "name" : "Povão Barra Mansa",
+    "latitude" : -22.544511822061008,
+    "longitude" : -44.17326258404377
   }
 ] 
