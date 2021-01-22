@@ -6,9 +6,9 @@
     "longitude" : -43.70880328902464
   },
   {
-    "key" : "SE",
-    "name" : "Sergipe",
-    "latitude" : -10.9091,
-    "longitude" : -37.0677
+    "key" : "facility",
+    "name" : "Facility",
+    "latitude" : -22.760366803540773,
+    "longitude" : -43.43123074682005
   }
 ]
