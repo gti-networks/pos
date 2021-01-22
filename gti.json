@@ -82,5 +82,11 @@
     "name" : "Provernet",
     "latitude" : -19.71797493148635, 
     "longitude" :  -43.9761971227168
+  },
+  {
+    "key" : "abs",
+    "name" : "ABS-Fibra",
+    "latitude" : -15.626210614294846,
+    "longitude" : -47.648397245376444
   }
-] 
+]  
