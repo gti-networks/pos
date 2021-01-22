@@ -10,5 +10,11 @@
     "name" : "Facility",
     "latitude" : -22.760366803540773,
     "longitude" : -43.43123074682005
+  },
+  {
+    "key" : "facility",
+    "name" : "Facility",
+    "latitude" : -22.760366803540773,
+    "longitude" : -43.43123074682005
   }
 ]
