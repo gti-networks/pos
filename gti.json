@@ -58,5 +58,17 @@
     "name" : "PreviCar Centro",
     "latitude" : -22.897880988668405,
     "longitude" : -43.17782142498067
+  },
+  {
+    "key" : "rb1",
+    "name" : "Targa centro",
+    "latitude" : -22.897201649271132, 
+    "longitude" : -43.18022703175679
+  },
+  {
+    "key" : "pbsul",
+    "name" : "Targa paraíba do sul",
+    "latitude" : -22.154983341588792, 
+    "longitude" : -43.281162416430675
   }
 ] 
