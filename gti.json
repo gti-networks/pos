@@ -46,5 +46,11 @@
     "name" : "Fabrica de Arames pbi",
     "latitude" : -22.63038872410645,
     "longitude" : -43.70931824710328
+  },
+  {
+    "key" : "pvm",
+    "name" : "PreviCar Mesquita",
+    "latitude" : -22.769053151731622,
+    "longitude" : -43.43172687593589
   }
 ] 
