@@ -76,5 +76,11 @@
     "name" : "Latex Br",
     "latitude" : -22.560607252636224, 
     "longitude" : -43.67630380292845
+  },
+  {
+    "key" : "prov",
+    "name" : "Provernet",
+    "latitude" : -19.71797493148635, 
+    "longitude" :  -43.9761971227168
   }
 ] 
