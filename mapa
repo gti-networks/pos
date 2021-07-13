@@ -1,0 +1,110 @@
+[
+  {
+    "key" : "BT",
+    "name" : "Botafogo",
+    "latitude" : -22.67703059333655, 
+    "longitude" : -43.74159574525554
+  },
+  {
+    "key" : "facility",
+    "name" : "Facility",
+    "latitude" : -22.760366803540773,
+    "longitude" : -43.43123074682005
+  },
+  {
+    "key" : "cli",
+    "name" : "Clínica Amor&Saúde",
+    "latitude" : -22.912929860679778,
+    "longitude" : -43.68699732744344
+  },
+  {
+    "key" : "pvt",
+    "name" : "povão Volta redonda",
+    "latitude" : -22.512622568492098, 
+    "longitude" : -44.093187321493986
+  },
+  {
+    "key" : "pvbarra",
+    "name" : "povão Barra do Piraí",
+    "latitude" : -22.466344499198296,
+    "longitude" : -43.826320862506954
+  },
+  {
+    "key" : "ctd",
+    "name" : "Cartão de Todos",
+    "latitude" : -22.917345883240845,
+    "longitude" : -43.68138323175651
+  },
+  {
+    "key" : "pbm",
+    "name" : "Povão Barra Mansa",
+    "latitude" : -22.544511822061008,
+    "longitude" : -44.17326258404377
+  },
+  {
+    "key" : "fbr",
+    "name" : "Fabrica de Arames pbi",
+    "latitude" : -22.63038872410645,
+    "longitude" : -43.70931824710328
+  },
+  {
+    "key" : "pvm",
+    "name" : "PreviCar Mesquita",
+    "latitude" : -22.769053151731622,
+    "longitude" : -43.43172687593589
+  },
+  {
+    "key" : "pvc",
+    "name" : "PreviCar Centro",
+    "latitude" : -22.897880988668405,
+    "longitude" : -43.17782142498067
+  },
+  {
+    "key" : "rb1",
+    "name" : "Targa centro",
+    "latitude" : -22.897201649271132, 
+    "longitude" : -43.18022703175679
+  },
+  {
+    "key" : "pbsul",
+    "name" : "Targa paraíba do sul",
+    "latitude" : -22.154983341588792, 
+    "longitude" : -43.281162416430675
+  },
+  {
+    "key" : "lbr",
+    "name" : "Latex Br",
+    "latitude" : -22.560607252636224, 
+    "longitude" : -43.67630380292845
+  },
+  {
+    "key" : "prov",
+    "name" : "Provernet",
+    "latitude" : -19.71797493148635, 
+    "longitude" :  -43.9761971227168
+  },
+  {
+    "key" : "abs",
+    "name" : "ABS-Fibra",
+    "latitude" : -15.626210614294846,
+    "longitude" : -47.648397245376444
+  }, 
+  {
+    "key" : "HB",
+    "name" : "Humboldt",
+    "latitude" : -23.687287638123937,
+    "longitude" : -46.70917137240291
+  }, 
+  {
+    "key" : "BSM",
+    "name" : "BSM",
+    "latitude" : -22.80892245012652,
+    "longitude" : -43.34702942482953
+  }, 
+  {
+    "key" : "EBR",
+    "name" : "EBR",
+    "latitude" : -20.293503346197216,
+    "longitude" : -40.29394770865641
+  }
+]   
